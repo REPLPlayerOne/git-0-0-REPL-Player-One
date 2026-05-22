@@ -1,6 +1,6 @@
 # REPL Player One
 
-![REPL Player One](git-0-0-README/git-0-0-original-research/1767.png)
+![REPL Player One](git-0-0-README/git-0-0-original-research/1767 (1).png)
 
 ---
 
