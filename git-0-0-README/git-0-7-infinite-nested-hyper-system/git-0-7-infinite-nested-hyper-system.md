@@ -1,6 +1,8 @@
 # Paper 6 — The Infinite Nested Hyper-System $\mathcal{H}_\infty$
 ## A Countably Infinite Tower of Crystallizing REPLs
 
+![Cognitive Hyper-Manifold — infinite nested REPL tower](https://raw.githubusercontent.com/REPLPlayerOne/git-0-0-REPL-Player-One/main/git-0-0-README/git-0-0-original-research/Cognitive%20Hyper-Manifold.png)
+
 **Armstrong Knight | Intent Tensor Theory | intent-tensor-theory.com**
 
 *Status: DRAFT — core structure sound; three substrate issues explicitly named.*
